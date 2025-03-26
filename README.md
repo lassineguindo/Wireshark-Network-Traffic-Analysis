@@ -1,5 +1,4 @@
 # Wireshark-Network-Traffic-Analysis
-# Wireshark Network Traffic Analysis
 
 ## Overview
 This project demonstrates how to analyze network traffic using **Wireshark** while setting up an **FTP server with FileZilla**. The goal is to observe how unencrypted FTP credentials can be captured and understand why secure alternatives like **SFTP/FTPS** should be used.
